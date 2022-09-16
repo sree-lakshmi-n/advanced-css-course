@@ -13,3 +13,15 @@ Dark green: #28b485
   padding: 0;
   box-sizing: border-box;
 }
+/* Font size setting */
+html {
+  font-size: 62.5%;
+}
+/* General Styling */
+body {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 1.7;
+  color: #777;
+}
