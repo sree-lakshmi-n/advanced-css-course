@@ -25,3 +25,13 @@ body {
   line-height: 1.7;
   color: #777;
 }
+
+/**********************/
+/* HEADER */
+/**********************/
+.header {
+  height: 95vh;
+  background-image: url(../img/hero.jpg);
+  background-size: cover;
+  background-position: top;
+}
