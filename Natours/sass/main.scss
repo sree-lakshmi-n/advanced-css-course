@@ -52,6 +52,7 @@ body {
 .heading-primary {
   color: #fff;
   text-transform: uppercase;
+  margin-bottom: 4.8rem;
 
   backface-visibility: hidden;
   // determines if the back part of an element is visible or hidden for the user.
@@ -113,4 +114,16 @@ body {
     opacity: 1;
     transform: translate(0);
   }
+}
+
+.btn:link,
+.btn:visited {
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 1.5rem 4rem;
+  display: inline-block;
+}
+.btn-white {
+  background-color: #fff;
+  color: $color-grey;
 }
